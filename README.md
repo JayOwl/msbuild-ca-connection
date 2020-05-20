@@ -1,5 +1,5 @@
 # Microsoft Build 2020 
-## Canadian Develoepr Community Connection :maple_leaf:
+## Canadian Developer Community Connection :maple_leaf:
 
 [Cherchez-vous la version français? D’il vous plaît cliquez ici | Looking for the French version? {lease click here](README-FRENCH.md)
 
